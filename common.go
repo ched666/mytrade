@@ -20,6 +20,7 @@ var okx = myokxapi.MyOkx{}
 
 func SetLogger(logger *logrus.Logger) {
 	log = logger
+	mybinanceapi.SetLogger(logger)
 }
 
 type MySyncMap[K any, V any] struct {
