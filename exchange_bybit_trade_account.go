@@ -1,10 +1,11 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/mybybitapi"
-	"github.com/shopspring/decimal"
 	"strconv"
 	"strings"
+
+	"github.com/ched666/mybybitapi"
+	"github.com/shopspring/decimal"
 )
 
 type BybitTradeAccount struct {

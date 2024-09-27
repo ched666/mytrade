@@ -1,9 +1,10 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/myokxapi"
 	"sync"
 	"time"
+
+	"github.com/ched666/myokxapi"
 )
 
 type OkxTradeEngine struct {

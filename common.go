@@ -1,12 +1,13 @@
 package mytrade
 
 import (
-	"github.com/shopspring/decimal"
 	"strconv"
 	"sync"
 
-	"github.com/Hongssd/mybinanceapi"
-	"github.com/Hongssd/myokxapi"
+	"github.com/shopspring/decimal"
+
+	"github.com/ched666/mybinanceapi"
+	"github.com/ched666/myokxapi"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/sirupsen/logrus"
 )

@@ -1,8 +1,9 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/mybinanceapi"
 	"strconv"
+
+	"github.com/ched666/mybinanceapi"
 )
 
 type BinanceExchangeInfo struct {

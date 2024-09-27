@@ -3,8 +3,9 @@ package mytrade
 import (
 	"errors"
 	"fmt"
-	"github.com/Hongssd/mybinanceapi"
 	"sync"
+
+	"github.com/ched666/mybinanceapi"
 )
 
 type BinanceTradeEngine struct {

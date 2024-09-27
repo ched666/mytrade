@@ -1,11 +1,11 @@
-github.com/ched666/mybinanceapi v1.5.4 h1:2XBLhF17HstlhqYRtTQ8/g4nUy8Khl6sj0Ipfs+NwN4=
-github.com/ched666/mybinanceapi v1.5.4/go.mod h1:TmGyPoBTq6lwZL/LLbLX9YWJiwHJpzP0j7osjo7c1lk=
-github.com/ched666/mybybitapi v0.1.0 h1:SdmNQrIo63ZzjmxRRivGuCRP3lfVJye8oWVE+TuPoL0=
-github.com/ched666/mybybitapi v0.1.0/go.mod h1:BECmWLRnaQKab7uK6cB1SprXtfZMwX4XhK+LGmoHymI=
-github.com/ched666/myokxapi v0.4.0 h1:nxZ5lj3+1OPj33mH+/DcagSxlwXYt2iWsoA2Y49NOI0=
-github.com/ched666/myokxapi v0.4.0/go.mod h1:93tb0kb+OCgvQeywa5kqv43r3Z7axNXzEuRjOZWTWHw=
 github.com/bwmarrin/snowflake v0.3.0 h1:xm67bEhkKh6ij1790JB83OujPR5CzNe8QuQqAgISZN0=
 github.com/bwmarrin/snowflake v0.3.0/go.mod h1:NdZxfVWX+oR6y2K0o6qAYv6gIOP9rjG0/E9WsDpxqwE=
+github.com/ched666/mybinanceapi v1.0.0 h1:+pp1F7VIgpHWvvtAltIVX891ob9fPJvDMIT73CBRIr4=
+github.com/ched666/mybinanceapi v1.0.0/go.mod h1:C9KyvZaEFNGSo+5KR87XKMHw5SZjQE9XjaCSh/22nys=
+github.com/ched666/mybybitapi v1.0.1 h1:BFYSDCE2i6FAgzvj/ZRH00D2dci5y9Iv2SXdtgM5xhE=
+github.com/ched666/mybybitapi v1.0.1/go.mod h1:M0ecLsEOkbjQTGMLUZzPKcBvi4iUtN948ayJoXkefOQ=
+github.com/ched666/myokxapi v1.0.1 h1:6NqECwzIC5CnpOdPKp2eLzHAHPOqZw61OdvcS4GMRNc=
+github.com/ched666/myokxapi v1.0.1/go.mod h1:O6dWp+Jgaw+cVQhlIC6AjPVTQQua7mGCnJp43u82Qxk=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=

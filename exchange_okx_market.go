@@ -1,8 +1,9 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/myokxapi"
 	"strconv"
+
+	"github.com/ched666/myokxapi"
 )
 
 type OkxMarketData struct {

@@ -1,10 +1,11 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/mybinanceapi"
-	"github.com/shopspring/decimal"
 	"strings"
 	"time"
+
+	"github.com/ched666/mybinanceapi"
+	"github.com/shopspring/decimal"
 )
 
 type BinanceTradeAccount struct {

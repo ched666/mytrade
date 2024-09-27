@@ -1,8 +1,9 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/mybybitapi"
 	"strconv"
+
+	"github.com/ched666/mybybitapi"
 )
 
 type BybitMarketData struct {

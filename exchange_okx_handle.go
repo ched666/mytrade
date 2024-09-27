@@ -3,7 +3,8 @@ package mytrade
 import (
 	"errors"
 	"fmt"
-	"github.com/Hongssd/myokxapi"
+
+	"github.com/ched666/myokxapi"
 	"github.com/shopspring/decimal"
 )
 

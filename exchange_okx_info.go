@@ -1,7 +1,7 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/myokxapi"
+	"github.com/ched666/myokxapi"
 )
 
 type OkxExchangeInfo struct {

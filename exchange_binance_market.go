@@ -1,8 +1,9 @@
 package mytrade
 
 import (
-	"github.com/Hongssd/mybinanceapi"
 	"time"
+
+	"github.com/ched666/mybinanceapi"
 )
 
 type BinanceMarketData struct {
