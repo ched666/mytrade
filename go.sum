@@ -4,6 +4,8 @@ github.com/ched666/mybinanceapi v1.0.0 h1:+pp1F7VIgpHWvvtAltIVX891ob9fPJvDMIT73C
 github.com/ched666/mybinanceapi v1.0.0/go.mod h1:C9KyvZaEFNGSo+5KR87XKMHw5SZjQE9XjaCSh/22nys=
 github.com/ched666/mybybitapi v1.0.1 h1:BFYSDCE2i6FAgzvj/ZRH00D2dci5y9Iv2SXdtgM5xhE=
 github.com/ched666/mybybitapi v1.0.1/go.mod h1:M0ecLsEOkbjQTGMLUZzPKcBvi4iUtN948ayJoXkefOQ=
+github.com/ched666/mybybitapi v1.0.2 h1:IpzAf9i2lxAgZ5/p80FUkou8ouhlPP/tjv7vTMYNXxs=
+github.com/ched666/mybybitapi v1.0.2/go.mod h1:M0ecLsEOkbjQTGMLUZzPKcBvi4iUtN948ayJoXkefOQ=
 github.com/ched666/myokxapi v1.0.1 h1:6NqECwzIC5CnpOdPKp2eLzHAHPOqZw61OdvcS4GMRNc=
 github.com/ched666/myokxapi v1.0.1/go.mod h1:O6dWp+Jgaw+cVQhlIC6AjPVTQQua7mGCnJp43u82Qxk=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

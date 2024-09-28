@@ -22,6 +22,8 @@ var okx = myokxapi.MyOkx{}
 func SetLogger(logger *logrus.Logger) {
 	log = logger
 	mybinanceapi.SetLogger(logger)
+	mybybitapi.SetLogger(logger)
+	myokxapi.SetLogger(logger)
 }
 
 func SetNetType(netType string) {
