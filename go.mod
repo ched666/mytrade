@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/ched666/mybinanceapi v1.0.0
-	github.com/ched666/mybybitapi v1.0.2
+	github.com/ched666/mybybitapi v1.0.3
 	github.com/ched666/myokxapi v1.0.1
 	github.com/json-iterator/go v1.1.12
 	github.com/shopspring/decimal v1.4.0
