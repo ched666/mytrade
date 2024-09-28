@@ -7,6 +7,7 @@ import (
 	"github.com/shopspring/decimal"
 
 	"github.com/ched666/mybinanceapi"
+	"github.com/ched666/mybybitapi"
 	"github.com/ched666/myokxapi"
 	jsoniter "github.com/json-iterator/go"
 	"github.com/sirupsen/logrus"
@@ -21,6 +22,11 @@ var okx = myokxapi.MyOkx{}
 func SetLogger(logger *logrus.Logger) {
 	log = logger
 	mybinanceapi.SetLogger(logger)
+}
+
+func SetNetType(netType string) {
+	mybinanceapi.SetNetType(mybinanceapi.TEST_NET) //zsk设置为测试网,后续优化
+	mybybitapi.SetServerType(mybybitapi.TEST)
 }
 
 type MySyncMap[K any, V any] struct {
